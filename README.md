@@ -1,4 +1,9 @@
-#Part1-Assignment1:https://github.com/Aashish2707/AIML-2024/blob/main/Part1Assignment1.ipynb   
-#Part2-Assignment1:https://github.com/Aashish2707/AIML-2024/blob/main/part2Assignment1.ipynb   
-#Part3-Assignment1:https://github.com/Aashish2707/AIML-2024/blob/main/Part3_Assignment1.ipynb   
-#Assignment2:https://github.com/Aashish2707/AIML-2024/blob/main/assignment2.ipynb
+#Part1-Assignment-1:https://github.com/Aashish2707/AIML-2024/blob/main/Part1Assignment1.ipynb   
+#Part2-Assignment-1:https://github.com/Aashish2707/AIML-2024/blob/main/part2Assignment1.ipynb   
+#Part3-Assignment-1:https://github.com/Aashish2707/AIML-2024/blob/main/Part3_Assignment1.ipynb
+
+#Assignment-2:https://github.com/Aashish2707/AIML-2024/blob/main/assignment2.ipynb
+
+#Assignment-3:
+
+#Assignment-4:https://github.com/Aashish2707/AIML-2024/blob/main/Assignment4.ipynb
