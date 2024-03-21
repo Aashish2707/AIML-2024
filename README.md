@@ -4,6 +4,8 @@
 
 #Assignment-2:https://github.com/Aashish2707/AIML-2024/blob/main/assignment2.ipynb
 
-#Assignment-3:
+#Assignment-3:https://github.com/Aashish2707/AIML-2024/blob/main/Assignment3.ipynb
 
 #Assignment-4:https://github.com/Aashish2707/AIML-2024/blob/main/Assignment4.ipynb
+
+#Assignment-5:
